@@ -4,7 +4,7 @@
 
 Clone the repository from [GitHub](https://github.com/crux-bphc/crux-judge).
 
-You need pip3, MySQL and virtualenv installed on your system. For Debian/Ubuntu, run the following commands:
+You need pip3, sqlite3 and virtualenv installed on your system. For Debian/Ubuntu, run the following commands:
 
 ```bash
 sudo apt install python3-pip -y
